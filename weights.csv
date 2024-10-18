@@ -1,0 +1,76 @@
+name,weight,sector
+Academic Support as % Total Expenses,0.5,private_for_profit
+Academic Support as % Total Expenses Change Over Time,0.5,private_for_profit
+Discounts and Allowances Applied to Tuition and Fees per Student,1,private_for_profit
+Discounts and Allowances Applied to Tuition and Fees per Student Change Over Time,1,private_for_profit
+Enrollment Change Over Time,1,private_for_profit
+Govt Appropriations Grants as % Total Revenue,1,private_for_profit
+Institutional Support as % Total Expenses,0.5,private_for_profit
+Institutional Support as % Total Expenses Change Over Time,0.5,private_for_profit
+Instruction Expenses as % Total Expenses,0.5,private_for_profit
+Instruction Expenses as % Total Expenses Change Over Time,0.5,private_for_profit
+Net Income Positive,2,private_for_profit
+Retention Rate,0.5,private_for_profit
+Retention Rate Change Over Time,0.5,private_for_profit
+Revenue per Student Change Over Time,2,private_for_profit
+Sales Or Other Earned Revenue as % Total Revenue,1,private_for_profit
+Student Service as % Total Expenses,0.5,private_for_profit
+Student Service as % Total Expenses Change Over Time,0.5,private_for_profit
+Total Debt to Total Assets Ratio,0.5,private_for_profit
+Total Debt to Total Assets Ratio Change Over Time,0.5,private_for_profit
+Total Student Grants as % Total Revenue,1,private_for_profit
+Tuition and Fees as % Total Revenue,1,private_for_profit
+Academic Support as % Total Expenses,0.5,private_not_for_profit
+Academic Support as % Total Expenses Change Over Time,0.5,private_not_for_profit
+Allowances Applied to Tuition and Fees per Student,1,private_not_for_profit
+Allowances Applied to Tuition and Fees per Student Change Over Time,1,private_not_for_profit
+Enrollment Change Over Time,1,private_not_for_profit
+Govt Appropriations as % Total Revenue,2,private_not_for_profit
+Govt Grants Contracts as % Total Revenue,2,private_not_for_profit
+Institutional Support as % Total Expenses,0.5,private_not_for_profit
+Institutional Support as % Total Expenses Change Over Time,0.5,private_not_for_profit
+Instruction Expenses as % Total Expenses,0.5,private_not_for_profit
+Instruction Expenses as % Total Expenses Change Over Time,0.5,private_not_for_profit
+Net Income Positive,2,private_not_for_profit
+Private Gifts as % Total Revenue,2,private_not_for_profit
+Restricted Assets to Total Assets Ratio,0.5,private_not_for_profit
+Restricted Assets to Total Assets Ratio Change Over Time,0.5,private_not_for_profit
+Retention Rate,0.5,private_not_for_profit
+Retention Rate Change Over Time,0.5,private_not_for_profit
+Revenue per Student Change Over Time,2,private_not_for_profit
+Sales Other Earned Revenue as % Total Rev,2,private_not_for_profit
+Student Service as % Total Expenses,0.5,private_not_for_profit
+Student Service as % Total Expenses Change Over Time,0.5,private_not_for_profit
+Total Debt to Total Assets Ratio,0.5,private_not_for_profit
+Total Debt to Total Assets Ratio Change Over Time,0.5,private_not_for_profit
+Total Student Grants as % Total Revenue,2,private_not_for_profit
+Tuition and Fees as % Total Revenue,2,private_not_for_profit
+Value of Endowment as % Total Expenses Change Over Time,0.5,private_not_for_profit
+Value of Endowment as % Total Expenses,0.5,private_not_for_profit
+Academic Support as % Total Expenses,0.5,public
+Academic Support as % Total Expenses Change Over Time,0.5,public
+Discounts and Allowances Applied to Tuition and Fees per Student,0.5,public
+Discounts and Allowances Applied to Tuition and Fees per Student Change Over Time,0.5,public
+Enrollment Change Over Time,1,public
+Govt Grants Contracts as % Total Revenue,2,public
+Instruction Expenses as % Total Expenses,0.5,public
+Instruction Expenses as % Total Expenses Change Over Time,0.5,public
+Net Income Positive,2,public
+Private Gifts as % Total Revenue,2,public
+Restricted Assets to Total Assets Ratio,0.5,public
+Restricted Assets to Total Assets Ratio Change Over Time,0.5,public
+Retention Rate,0.5,public
+Retention Rate Change Over Time,0.5,public
+Revenue per Student Change Over Time,2,public
+Sales Investment Income as % Total Revenue,2,public
+Scholarships Fellowships Expenses as % Total Expenses,0.5,public
+Scholarships Fellowships Expenses as % Total Expenses Change Over Time,0.5,public
+Student Service as % Total Expenses,0.5,public
+Student Service as % Total Expenses Change Over Time,0.5,public
+Total Current Assets as % Total Expenses,1,public
+Total Debt to Total Assets Ratio,0.5,public
+Total Debt to Total Assets Ratio Change Over Time,0.5,public
+Total Govt Appropriations as % Total Revenue,2,public
+Tuition and Fees as % Total Revenue,2,public
+Value of Endowment as % Total Expenses Change Over Time,0.5,public
+Value of Endowment as % Total Expenses,0.5,public

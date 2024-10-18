@@ -1,0 +1,14 @@
+name: fhi_highchart_v1_1_reserved
+title:
+username:
+account: sicdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5765583
+bundleId: 5700767
+url: https://sicdata.shinyapps.io/fhi_highchart_v1_1_reserved/
+when: 1647629103.89089
+lastSyncTime: 1647629103.8909
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: fhi_dictionary|icon|local app testing values.R|new financial models - combine dashboard data.R|Parkinglot.R|Pictures/icon|Pictures/logo.png|README.md|shiny-run.R|simulation.R|testing loop plot.R|testing uioutput.r|Untitled.R|UX_test.R|data_parkinglot

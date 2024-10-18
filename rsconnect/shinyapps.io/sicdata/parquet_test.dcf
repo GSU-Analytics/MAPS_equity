@@ -1,0 +1,14 @@
+name: parquet_test
+title: parquet_test
+username:
+account: sicdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6006614
+bundleId: 5762236
+url: https://sicdata.shinyapps.io/parquet_test/
+when: 1649071972.12916
+lastSyncTime: 1649071972.12917
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: fhi_dictionary|icon|local app testing values.R|new financial models - combine dashboard data.R|Parkinglot.R|Pictures/icon|Pictures/logo.png|profvis_testing.R|README.md|result|shiny-run.R|simulation.R|testing loop plot.R|testing uioutput.r|tests/shinytest/mytest.R|tests/shinytest.R|Untitled.R|UX_test.R|weights.csv|data_parkinglot
