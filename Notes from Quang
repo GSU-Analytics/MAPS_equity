@@ -1,0 +1,8 @@
+#Notes on project by Quang
+
+It seems like the project is using client-side selectize which may be causing some slowdown. R suggested switching to server-side
+
+Errors produced by dname == input$dname and year == max(year). Looked on stack exchange could be potentially solved by using %in% instead of ==
+https://stackoverflow.com/questions/67628985/shiny-error-in-problem-with-filter-input-1
+
+The required data files sent to me by Tim which I assume come from Alyssa, equal about 20 GBs

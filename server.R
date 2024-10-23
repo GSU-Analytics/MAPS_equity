@@ -344,6 +344,7 @@ server <- function(input, output, session) {
       drop_na %>% 
       group_by(dname) %>%
       #filter(year == "2019") %>%
+      #Quang: I think this is where the error is coming from
       filter(year==max(year)) %>%
       distinct() %>%
       rename('Pell'=pell_pct_per_inst_year, 'Non-Pell'=nonpell_pct_per_inst_year) %>%

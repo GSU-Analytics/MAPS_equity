@@ -84,6 +84,7 @@ raw_feature_slope_plot <- function(data,input_dname,input_var) {
   
   #ytitle <- unique(data$var_title)
   
+  #This seems weird to me is it limiting only to harvard?
   p <- raw_values %>%
     filter(dname=="Harvard University (166027)") %>%
     filter(variable=="total_assets") %>%
